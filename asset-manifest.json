@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rtexam1/static/css/main.3e16e68d.css",
+    "main.js": "/rtexam1/static/js/main.7e88d484.js",
+    "index.html": "/rtexam1/index.html",
+    "main.3e16e68d.css.map": "/rtexam1/static/css/main.3e16e68d.css.map",
+    "main.7e88d484.js.map": "/rtexam1/static/js/main.7e88d484.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e16e68d.css",
+    "static/js/main.7e88d484.js"
+  ]
+}
